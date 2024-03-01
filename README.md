@@ -1,4 +1,4 @@
-# AlignmentAutomation
+# Alignment Automation & NN classifier for non-renormalizables
 This project documents the automation process of vacuum alignment of a global-discrete charged BSM scalar field theory. 
 
 The process currently includes A4 and Δ(27) symmetries. Each section of the code attempts to reproduce the results obtained analytically in each corresponding papers that introduces the inclusion of family-charged familon scalar fields called flavons. 
